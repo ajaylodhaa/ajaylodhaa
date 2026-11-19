@@ -4,8 +4,8 @@ I'm a B.Tech Computer Science student learning data science. I'm working through
 
 ## Featured Projects
 
-- **Personal Finance Tracker** — a Flask and Chart.js app to track income and expenses. It started as a Python CLI tool and is now also an installable PWA and an Android app. [Live demo](https://personal-finance-tracker-self-kappa.vercel.app) · [Code](github.com/ajaylodhaa/personal-finance-tracker).
-- **Journaling App** — a Flask app that tags each journal entry as positive, neutral or negative using sentiment analysis with TextBlob. [Code](github.com/ajaylodhaa/journaling-app)
+- **Personal Finance Tracker** — a Flask and Chart.js app to track income and expenses. It started as a Python CLI tool and is now also an installable PWA and an Android app. [Live demo](https://personal-finance-tracker-self-kappa.vercel.app) · [Code](https://github.com/ajaylodhaa/personal-finance-tracker).
+- **Journaling App** — a Flask app that tags each journal entry as positive, neutral or negative using sentiment analysis with TextBlob. [Code](https://github.com/ajaylodhaa/journaling-app)
 
 ## Currently learning
 
