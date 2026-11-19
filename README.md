@@ -15,4 +15,4 @@ Pandas, data visualization, and core machine learning concepts, mostly through K
 
 - Email: ajaylodha626@gmail.com
 - Kaggle: https://www.kaggle.com/ajaylodha
-- LinkedIn:  https://www.linkedin.com/in/ajay-lodha-86273127b/
+- LinkedIn:  https://www.linkedin.com/in/ajaylodhaa
