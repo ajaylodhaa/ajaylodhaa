@@ -9,7 +9,7 @@ I'm a B.Tech Computer Science student learning data science. I'm working through
 
 ## Currently learning
 
-Pandas, data visualization, and core machine learning concepts, mostly through Kaggle's micro-courses.
+Pandas, data visualization, and core machine learning concepts, mostly through Kaggle's micro courses.
 
 ## Connect With Me
 
